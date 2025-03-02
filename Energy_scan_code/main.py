@@ -1,0 +1,1 @@
+C:\Users\quan\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:\Users\quan\Desktop\Energy_scan_code\main.py 
