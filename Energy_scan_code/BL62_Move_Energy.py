@@ -2,7 +2,7 @@
 
 import math
 import epics
-
+import sys
 """ Calculate a crystal angle at a given energy"""
 def energy(mono):
 	hc = 12398.4244
